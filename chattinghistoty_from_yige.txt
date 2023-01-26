@@ -1,0 +1,41 @@
+user: Hello
+bot: Hello!
+user: how are you
+bot: Hi there, how can I help?
+user: I want to book a flight
+bot: Sure, what is your departure and destination? PLease reply in the format of 'from City A to City B'.
+user: from London to New York
+bot: What about the date?
+user: Sorry, can I change it?
+bot: No problem. What date do you want
+user: hello
+bot: Hi there, how can I help?
+user: what is your name
+bot: I'm Tim!
+user: how old are you
+bot: 18 years young!
+user: how are you
+bot: Good to see you!
+user: Can I book a flight
+bot: Sure. What is your departure and destination? PLease reply in the format of 'from City A to City B'.
+user: from London to New York
+bot: What about the date?
+user: Sorry, I need to change it.
+bot: Sorry, I couldn't understand. Could you tell me the date again?
+user: Can I change the destination?
+bot: No problem. What is your departure and destination? PLease reply in the format of 'from City A to City B'.
+user: From London to Sydney
+bot: What about the date?
+user: July 7th
+bot: Can I have your full name, please?
+user: No, Can I change the the date
+bot: No problem. What date do you want?
+user: July 8th
+bot: Can I have your full name, please?
+user: Yige Yang
+bot: Can I have your email, please?
+user: qwqda12@gmail.com
+bot: Thank you. A link will send to your email to finish the following process.
+-----------a booking finished-----------
+user: goodbye
+bot: Talk to you later
